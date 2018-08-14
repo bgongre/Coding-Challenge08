@@ -1,0 +1,30 @@
+.main {
+  overflow: hidden !important;
+  background-color: #660066 !important;
+}
+
+.purple-1 {
+  background-image: url('purple-1.png') !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+.purple-2 {
+  background-image: url('purple-2.png') !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+.purple-3 {
+  background-image: url('purple-3.png') !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  overflow: hidden !important;
+}
+
+.moon-page {
+  background-color: #f4f4f4 !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  overflow: hidden !important;
+}
