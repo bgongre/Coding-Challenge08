@@ -22,6 +22,24 @@
   overflow: hidden !important;
 }
 
+.moonsugar {
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+}
+
+.card-body {
+  background-color: grey !important;
+}
+
+.image-container {
+  height: 155px;
+  position: relative;
+  background-position: 50%;
+  background-size: cover;
+  box-shadow: 0 10px 25px 0 rgba(0,0,0,.3);
+  border-radius: .25rem;
+}
+
 .moon-page {
   background-color: #f4f4f4 !important;
   background-repeat: no-repeat !important;
