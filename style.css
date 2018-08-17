@@ -22,7 +22,7 @@
   overflow: hidden !important;
 }
 
-.navbar {
+.navbar-color-on-scroll {
   background-color: rgb(102,0,102) !important;
 }
 
@@ -41,7 +41,7 @@
 }
 
 .moonsugar-card {
-  right: 20%;
+  right: 10%;
   margin-top: -5vh;
   width: 55% !important;
 }
