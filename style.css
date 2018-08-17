@@ -22,22 +22,40 @@
   overflow: hidden !important;
 }
 
-.moonsugar {
-  padding-top: 40px !important;
-  padding-bottom: 40px !important;
+.bg-primary {
+  background-color: #000 !important;
 }
 
-.card-body {
-  background-color: grey !important;
+.sidebar-collapse .navbar-collapse:before {
+  background: url('purple-1.png') !important;
 }
+
+.moonsugar {
+  height: 100%;
+}
+
+.moonsugar-card {
+  margin-top: 40px !important;
+}
+
+.nightshade-card {
+  margin-top: 180px !important;
+}
+
+
 
 .image-container {
-  height: 155px;
+  height: 255px;
   position: relative;
   background-position: 50%;
   background-size: cover;
   box-shadow: 0 10px 25px 0 rgba(0,0,0,.3);
   border-radius: .25rem;
+  width: 30rem;
+}
+
+.blockquote {
+  background: #fff !important;
 }
 
 .moon-page {
