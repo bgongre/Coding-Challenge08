@@ -22,36 +22,59 @@
   overflow: hidden !important;
 }
 
-.bg-primary {
-  background-color: #000 !important;
+.navbar {
+  background-color: rgb(102,0,102) !important;
 }
 
 .sidebar-collapse .navbar-collapse:before {
   background: url('purple-1.png') !important;
 }
 
+.skooma-bottle {
+  margin-top: 55vh;
+  height: 50%;
+}
+
 .moonsugar {
-  height: 100%;
+  background-image: url("moonsugar.png");
+  margin-right: 50px;
 }
 
 .moonsugar-card {
-  margin-top: 40px !important;
+  right: 20%;
+  margin-top: -5vh;
+  width: 55% !important;
+}
+
+.moonsugar-text {
+  margin-top: 100px;
+}
+
+.nightshade {
+  background-image: url("nightshade.jpg");
+  height: 355px !important;
+  margin-left: 100px !important;
 }
 
 .nightshade-card {
-  margin-top: 180px !important;
+  left: 25%;
+  margin-top: -5vh;
+  width: 55% !important;
 }
 
-
+.nightshade-text {
+  margin-top: 100px;
+}
 
 .image-container {
+  margin-top: 50px;
   height: 255px;
   position: relative;
   background-position: 50%;
   background-size: cover;
   box-shadow: 0 10px 25px 0 rgba(0,0,0,.3);
   border-radius: .25rem;
-  width: 30rem;
+  width: 10rem;
 }
 
 .blockquote {
