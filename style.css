@@ -1,5 +1,24 @@
+a {
+  text-decoration: none !important;
+}
+
+.btn {
+  display: inline-block !important;
+}
+
 p {
   font-size: 22px !important;
+}
+
+.main-title {
+  margin-bottom: 0px !important;
+}
+
+.title {
+  margin-top: 150px;
+  margin-bottom: 50px;
+  color: #fff;
+  font-weight: 400 !important;
 }
 
 .main {
@@ -26,6 +45,13 @@ p {
   overflow: hidden !important;
 }
 
+.purple-4 {
+  background-image: url('purple-4.png') !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  overflow: hidden !important;
+}
+
 .navbar-color-on-scroll {
   background-color: rgb(102,0,102) !important;
 }
@@ -35,8 +61,36 @@ p {
 }
 
 .skooma-bottle {
-  margin-top: 45vh;
+  margin-top: 43vh;
   height: 50%;
+}
+
+.map {
+  margin-top: 100px;
+  height: 20%;
+  width: 50%;
+}
+
+.origin-section {
+  margin-top: 10% !important;
+}
+
+.origin-text {
+  color: #fff;
+  margin-top: 80px;
+  margin-bottom: 10px;
+}
+
+.origin-card {
+  margin-top: -5vh;
+  width: 55% !important;
+}
+
+.skooma-ingredients-intro {
+  margin-top: 10% !important;
+  font-size: 26px !important;
+  font-weight: 300 !important;
+  color: #fff;
 }
 
 .moonsugar {
@@ -54,7 +108,7 @@ p {
 .moonsugar-text {
   margin-top: 50px;
   margin-bottom: 50px;
-  color: white;
+  color: #fff;
 }
 
 .nightshade {
@@ -73,7 +127,7 @@ p {
 .nightshade-text {
   margin-top: 100px;
   padding-bottom: 50px;
-  color: white;
+  color: #fff;
 }
 
 .image-container {
@@ -91,8 +145,12 @@ p {
   background: #fff !important;
 }
 
-.moon-page {
-  background-color: #f4f4f4 !important;
+.btn-primary {
+  background-color: rgb(102,0,102) !important;
+}
+
+.subscribe-page {
+  background-color: #fff !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   overflow: hidden !important;
