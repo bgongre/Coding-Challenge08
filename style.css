@@ -1,3 +1,7 @@
+p {
+  font-size: 22px !important;
+}
+
 .main {
   overflow: hidden !important;
   background-color: #660066 !important;
@@ -38,6 +42,7 @@
 .moonsugar {
   background-image: url("moonsugar.png");
   margin-right: 50px;
+  margin-top: 80px !important;
 }
 
 .moonsugar-card {
@@ -47,11 +52,14 @@
 }
 
 .moonsugar-text {
-  margin-top: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: white;
 }
 
 .nightshade {
   background-image: url("nightshade.jpg");
+  margin-top: 100px !important;
   height: 355px !important;
   margin-left: 100px !important;
 }
@@ -64,6 +72,8 @@
 
 .nightshade-text {
   margin-top: 100px;
+  padding-bottom: 50px;
+  color: white;
 }
 
 .image-container {
