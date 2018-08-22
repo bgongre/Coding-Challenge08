@@ -2,6 +2,10 @@ a {
   text-decoration: none !important;
 }
 
+span {
+  line-height: 35px;
+}
+
 .btn {
   display: inline-block !important;
 }
