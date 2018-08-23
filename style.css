@@ -149,6 +149,10 @@ p {
   background: #fff !important;
 }
 
+.testimonial-img {
+  max-width: 150px;
+}
+
 .btn-primary {
   background-color: rgb(102,0,102) !important;
 }
