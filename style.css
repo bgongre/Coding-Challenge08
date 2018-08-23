@@ -31,26 +31,26 @@ p {
 }
 
 .purple-1 {
-  background-image: url('/backgrounds/purple-1.png') !important;
+  background-image: url('./backgrounds/purple-1.png') !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
 }
 
 .purple-2 {
-  background-image: url('/backgrounds/purple-2.png') !important;
+  background-image: url('./backgrounds/purple-2.png') !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
 }
 
 .purple-3 {
-  background-image: url('/backgrounds/purple-3.png') !important;
+  background-image: url('./backgrounds/purple-3.png') !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   overflow: hidden !important;
 }
 
 .purple-4 {
-  background-image: url('/backgrounds/purple-4.png') !important;
+  background-image: url('./backgrounds/purple-4.png') !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   overflow: hidden !important;
@@ -98,7 +98,7 @@ p {
 }
 
 .moonsugar {
-  background-image: url("/images/moonsugar.png");
+  background-image: url("./images/moonsugar.png");
   margin-right: 50px;
   margin-top: 80px !important;
 }
@@ -116,7 +116,7 @@ p {
 }
 
 .nightshade {
-  background-image: url("/images/nightshade.jpg");
+  background-image: url("./images/nightshade.jpg");
   margin-top: 100px !important;
   height: 355px !important;
   margin-left: 100px !important;
