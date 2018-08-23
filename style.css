@@ -2,14 +2,6 @@ a {
   text-decoration: none !important;
 }
 
-span {
-  line-height: 35px;
-}
-
-.btn {
-  display: inline-block !important;
-}
-
 p {
   font-size: 22px !important;
 }
@@ -61,7 +53,11 @@ p {
 }
 
 .sidebar-collapse .navbar-collapse:before {
-  background: url('purple-1.png') !important;
+  background: url('./backgrounds/purple-1.png') !important;
+}
+
+.social-icon {
+  position: inherit !important;
 }
 
 .skooma-bottle {
@@ -130,7 +126,7 @@ p {
 
 .nightshade-text {
   margin-top: 100px;
-  margin-bottom: 50px;
+  margin-bottom: 30px !important;
   color: #fff;
 }
 
@@ -159,6 +155,10 @@ p {
 
 .testimonial-text {
   font-size: 18px !important;
+}
+
+.document {
+  line-height: 35px;
 }
 
 .subscribe-page {

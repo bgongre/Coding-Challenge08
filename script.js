@@ -1,4 +1,4 @@
-let navbar = document.getElementById("navbar");
+let navbar = document.getElementById("nav-color-change");
 
 
 const addScrollingClass = () => {
