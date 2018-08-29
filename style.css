@@ -46,6 +46,7 @@ p {
   background-repeat: no-repeat !important;
   background-size: cover !important;
   overflow: hidden !important;
+  padding-bottom: 0 !important;
 }
 
 .navbar-color-on-scroll {
@@ -88,9 +89,14 @@ p {
 
 .skooma-ingredients-intro {
   margin-top: 10% !important;
+  padding-top: 50px;
   font-size: 26px !important;
   font-weight: 300 !important;
   color: #fff;
+}
+
+.shade {
+  background-color: rgba(0,0,0,0.2)!important;
 }
 
 .moonsugar {
@@ -126,7 +132,7 @@ p {
 
 .nightshade-text {
   margin-top: 100px;
-  margin-bottom: 30px !important;
+  margin-bottom: 50px !important;
   color: #fff;
 }
 
@@ -136,7 +142,6 @@ p {
   position: relative;
   background-position: 50%;
   background-size: cover;
-  box-shadow: 0 10px 25px 0 rgba(0,0,0,.3);
   border-radius: .25rem;
   width: 10rem;
 }
@@ -155,6 +160,23 @@ p {
 
 .testimonial-text {
   font-size: 18px !important;
+}
+
+.testimonial-margin {
+  margin-top: 250px !important;
+  margin-bottom: 200px !important;
+}
+
+.purple-4::after {
+  content: "";
+  display: block;
+  padding-bottom: 3%;
+  background-image: url('./images/arc.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 110%;
+  margin-left: -5%;
 }
 
 .document {
